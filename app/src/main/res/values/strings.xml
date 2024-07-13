@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TrialCertificaation</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Ciudades</string>
+    <string name="second_fragment_label">Clima</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+
+    </string>
+    <string name="imagen_de_fondo">Imagen de fondo</string>
+    <string name="text">Text</string>
+    <string name="navigation_to_web">Navigation to web</string>
+    <string name="info">Wsp</string>
+    <string name="pron_stico">pronóstico</string>
+    <string name="ma_ana">mañana</string>
+    <string name="grados">grados</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="enviar_whatsapp">Enviar WhatsApp</string>
+    <string name="viento">viento</string>
+</resources>
